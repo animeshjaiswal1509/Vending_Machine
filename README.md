@@ -16,4 +16,4 @@ Verilog
 
 Author
 
-Animesh Jaiswal ,Atharv Singh, Shikhar Shukla                                                                                                 ( B.Tech Electronics and Communication Engineering ,SRMCEM, Lucknow ) 
+Animesh Jaiswal ; Atharv Singh ; Shikhar Shukla                                                                                                 ( B.Tech Electronics and Communication Engineering ,SRMCEM, Lucknow ) 
